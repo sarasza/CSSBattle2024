@@ -7,7 +7,7 @@ Desafios | Solução |
 Battle - 21th january |
 Battle - 20th january | [Link ](https://github.com/sarasza/CSSBattle2024/blob/main/20thjanuary.md)
 Battle - 19th january | [Link ](https://github.com/sarasza/CSSBattle2024/blob/main/19thjanuary.md)
-Battle - 18th january | 
+Battle - 18th january | [Link ](https://github.com/sarasza/CSSBattle2024/blob/main/18thjanuary.md)
 Battle - 17th january | 
 Battle - 16th january | 
 Battle - 15th january | 
