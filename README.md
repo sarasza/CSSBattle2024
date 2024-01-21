@@ -4,7 +4,7 @@ CSS Battle - https://cssbattle.dev/
 
 Desafios | Solução |
 ---| ---|
-Battle - 20th january| 
+Battle - 20th january | [Link ](https://github.com/sarasza/CSSBattle2024/blob/main/20thjanuary.md)
 Battle - 19th january | 
 Battle - 18th january | 
 Battle - 17th january | 
